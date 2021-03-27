@@ -2,7 +2,7 @@
  & JQUERY
 ___________________________________________________________________
 
- 1-24 pages:
+ ## 1-24 pages:
   it's talk about how JavaScript can be used
 in browsers to make websites, Being able to change the content of an HTML page while it is loaded in
 the browser is very poweful: React: Script triggered when the page loads
@@ -20,7 +20,7 @@ You could compare scripts to any of the followiing:
 RECIPES
 HANDBOOKS
 MANUALS
-pages 74-79:
+## pages 74-79:
 
  six rules you must always follow when giving a variable a name
  

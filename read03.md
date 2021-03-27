@@ -73,5 +73,3 @@ and the one from older version is used in implicit definitions:
 
   <div>
  
-
-
